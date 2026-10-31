@@ -7,7 +7,7 @@ tension in the core that make tempered glass strong.
 
 This is the same quantity a SCALP polariscope measures on real glass.
 
-![Residual stress profile](outputs/stress_profile.png)
+![Residual stress profile](stress_profile.png)
 
 ## Objective
 
@@ -43,7 +43,7 @@ The simulation follows the glass through the quench:
    The hotter core contracts more and ends in tension. The cooler
    surfaces end in compression.
 
-![Temperature during quenching](outputs/temperature_evolution.png)
+![Temperature during quenching](temperature_evolution.png)
 
 ## Result
 
